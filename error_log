@@ -1,0 +1,174 @@
+[19-Sep-2025 07:08:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1 in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php:75
+Stack trace:
+#0 /home/princeaalyan/vip.aalyan.za.com/includes/functions.php(75): PDOStatement->execute(Array)
+#1 /home/princeaalyan/vip.aalyan.za.com/user_balance.php(10): getUserTransactions('5', 50)
+#2 {main}
+  thrown in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 75
+[19-Sep-2025 07:08:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1 in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php:75
+Stack trace:
+#0 /home/princeaalyan/vip.aalyan.za.com/includes/functions.php(75): PDOStatement->execute(Array)
+#1 /home/princeaalyan/vip.aalyan.za.com/user_balance.php(10): getUserTransactions('5', 50)
+#2 {main}
+  thrown in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 75
+[19-Sep-2025 07:08:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1 in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php:75
+Stack trace:
+#0 /home/princeaalyan/vip.aalyan.za.com/includes/functions.php(75): PDOStatement->execute(Array)
+#1 /home/princeaalyan/vip.aalyan.za.com/user_balance.php(10): getUserTransactions('5', 50)
+#2 {main}
+  thrown in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 75
+[19-Sep-2025 07:08:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1 in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php:75
+Stack trace:
+#0 /home/princeaalyan/vip.aalyan.za.com/includes/functions.php(75): PDOStatement->execute(Array)
+#1 /home/princeaalyan/vip.aalyan.za.com/user_transactions.php(10): getUserTransactions('5', 100)
+#2 {main}
+  thrown in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 75
+[19-Sep-2025 07:09:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1 in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php:75
+Stack trace:
+#0 /home/princeaalyan/vip.aalyan.za.com/includes/functions.php(75): PDOStatement->execute(Array)
+#1 /home/princeaalyan/vip.aalyan.za.com/user_transactions.php(10): getUserTransactions('5', 100)
+#2 {main}
+  thrown in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 75
+[19-Sep-2025 07:09:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1 in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php:75
+Stack trace:
+#0 /home/princeaalyan/vip.aalyan.za.com/includes/functions.php(75): PDOStatement->execute(Array)
+#1 /home/princeaalyan/vip.aalyan.za.com/user_balance.php(10): getUserTransactions('5', 50)
+#2 {main}
+  thrown in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 75
+[19-Sep-2025 07:09:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1 in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php:75
+Stack trace:
+#0 /home/princeaalyan/vip.aalyan.za.com/includes/functions.php(75): PDOStatement->execute(Array)
+#1 /home/princeaalyan/vip.aalyan.za.com/user_balance.php(10): getUserTransactions('5', 50)
+#2 {main}
+  thrown in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 75
+[19-Sep-2025 07:13:58 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 07:14:12 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 07:15:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1 in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php:75
+Stack trace:
+#0 /home/princeaalyan/vip.aalyan.za.com/includes/functions.php(75): PDOStatement->execute(Array)
+#1 /home/princeaalyan/vip.aalyan.za.com/user_transactions.php(10): getUserTransactions('5', 100)
+#2 {main}
+  thrown in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 75
+[19-Sep-2025 07:15:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1 in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php:75
+Stack trace:
+#0 /home/princeaalyan/vip.aalyan.za.com/includes/functions.php(75): PDOStatement->execute(Array)
+#1 /home/princeaalyan/vip.aalyan.za.com/user_transactions.php(10): getUserTransactions('5', 100)
+#2 {main}
+  thrown in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 75
+[19-Sep-2025 07:16:23 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 07:16:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1 in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php:75
+Stack trace:
+#0 /home/princeaalyan/vip.aalyan.za.com/includes/functions.php(75): PDOStatement->execute(Array)
+#1 /home/princeaalyan/vip.aalyan.za.com/user_transactions.php(10): getUserTransactions('5', 100)
+#2 {main}
+  thrown in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 75
+[19-Sep-2025 07:16:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1 in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php:75
+Stack trace:
+#0 /home/princeaalyan/vip.aalyan.za.com/includes/functions.php(75): PDOStatement->execute(Array)
+#1 /home/princeaalyan/vip.aalyan.za.com/user_transactions.php(10): getUserTransactions('5', 100)
+#2 {main}
+  thrown in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 75
+[19-Sep-2025 07:16:31 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 07:30:11 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 479
+[19-Sep-2025 07:30:11 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 486
+[19-Sep-2025 07:30:11 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 493
+[19-Sep-2025 07:31:14 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 07:31:23 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 479
+[19-Sep-2025 07:31:23 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 486
+[19-Sep-2025 07:31:23 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 493
+[19-Sep-2025 07:31:26 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 479
+[19-Sep-2025 07:31:26 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 486
+[19-Sep-2025 07:31:26 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 493
+[19-Sep-2025 07:31:28 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 479
+[19-Sep-2025 07:31:28 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 486
+[19-Sep-2025 07:31:28 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 493
+[19-Sep-2025 07:34:32 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 761
+[19-Sep-2025 07:34:32 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 768
+[19-Sep-2025 07:34:32 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 775
+[19-Sep-2025 07:37:36 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 761
+[19-Sep-2025 07:37:36 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 768
+[19-Sep-2025 07:37:36 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 775
+[19-Sep-2025 07:37:57 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 07:39:45 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 07:39:49 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 07:52:09 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 761
+[19-Sep-2025 07:52:09 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 768
+[19-Sep-2025 07:52:09 UTC] PHP Notice:  Undefined variable: keyStats in /home/princeaalyan/vip.aalyan.za.com/user_manage_keys.php on line 775
+[19-Sep-2025 11:49:08 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 11:49:12 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 11:58:48 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 11:59:07 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 12:11:07 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 12:17:48 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 12:20:42 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 12:20:53 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:25:28 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:25:47 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:26:04 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 12:26:09 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 12:27:09 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 12:27:11 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:27:23 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:27:31 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:29:13 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:29:15 UTC] PHP Fatal error:  Cannot redeclare formatCurrency() (previously declared in /home/princeaalyan/vip.aalyan.za.com/user_balance.php:82) in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 19
+[19-Sep-2025 12:29:16 UTC] PHP Fatal error:  Cannot redeclare formatCurrency() (previously declared in /home/princeaalyan/vip.aalyan.za.com/user_balance.php:82) in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 19
+[19-Sep-2025 12:34:32 UTC] PHP Fatal error:  Cannot redeclare formatCurrency() (previously declared in /home/princeaalyan/vip.aalyan.za.com/user_balance.php:64) in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 19
+[19-Sep-2025 12:34:34 UTC] PHP Fatal error:  Cannot redeclare formatCurrency() (previously declared in /home/princeaalyan/vip.aalyan.za.com/user_balance.php:64) in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 19
+[19-Sep-2025 12:34:41 UTC] PHP Fatal error:  Cannot redeclare formatCurrency() (previously declared in /home/princeaalyan/vip.aalyan.za.com/user_balance.php:64) in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 19
+[19-Sep-2025 12:34:45 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 12:34:47 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:34:48 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 12:34:50 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:47:28 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 12:47:29 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:48:01 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:48:10 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:50:19 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:50:21 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 12:51:54 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:53:18 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 12:53:36 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 13:00:16 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 13:05:28 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 13:05:55 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 13:06:32 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 13:06:32 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 13:07:18 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 13:07:19 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 13:08:15 UTC] Error in user_balance.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''50'' at line 1
+[19-Sep-2025 13:08:15 UTC] PHP Notice:  Undefined variable: userStats in /home/princeaalyan/vip.aalyan.za.com/user_balance.php on line 405
+[19-Sep-2025 13:08:15 UTC] PHP Notice:  Undefined variable: userStats in /home/princeaalyan/vip.aalyan.za.com/user_balance.php on line 419
+[19-Sep-2025 13:09:15 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 13:09:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/princeaalyan/vip.aalyan.za.com/includes/auth.php on line 2
+[19-Sep-2025 13:09:35 UTC] PHP Fatal error:  Cannot redeclare formatCurrency() (previously declared in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php:68) in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 19
+[19-Sep-2025 13:09:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/princeaalyan/vip.aalyan.za.com/includes/auth.php on line 2
+[19-Sep-2025 13:09:51 UTC] PHP Fatal error:  Cannot redeclare formatCurrency() (previously declared in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php:68) in /home/princeaalyan/vip.aalyan.za.com/includes/functions.php on line 19
+[19-Sep-2025 13:10:01 UTC] PHP Notice:  Undefined variable: transactions in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 566
+[19-Sep-2025 13:10:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 566
+[19-Sep-2025 13:10:01 UTC] PHP Notice:  Undefined variable: transactions in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 571
+[19-Sep-2025 13:10:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 571
+[19-Sep-2025 13:12:31 UTC] PHP Notice:  Undefined variable: transactions in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 566
+[19-Sep-2025 13:12:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 566
+[19-Sep-2025 13:12:31 UTC] PHP Notice:  Undefined variable: transactions in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 571
+[19-Sep-2025 13:12:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 571
+[19-Sep-2025 13:12:36 UTC] PHP Notice:  Undefined variable: transactions in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 566
+[19-Sep-2025 13:12:36 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 566
+[19-Sep-2025 13:12:36 UTC] PHP Notice:  Undefined variable: transactions in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 571
+[19-Sep-2025 13:12:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 571
+[19-Sep-2025 13:12:46 UTC] PHP Notice:  Undefined variable: transactions in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 566
+[19-Sep-2025 13:12:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 566
+[19-Sep-2025 13:12:46 UTC] PHP Notice:  Undefined variable: transactions in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 571
+[19-Sep-2025 13:12:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/princeaalyan/vip.aalyan.za.com/user_transactions.php on line 571
+[19-Sep-2025 13:12:47 UTC] Error in user_transactions.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''100'' at line 1
+[19-Sep-2025 14:07:10 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/princeaalyan/vip.aalyan.za.com/add_license.php on line 104
+[19-Sep-2025 14:07:11 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/princeaalyan/vip.aalyan.za.com/add_license.php on line 104
+[19-Sep-2025 14:49:06 UTC] Settings error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_login' in 'SELECT'
+[19-Sep-2025 14:49:06 UTC] PHP Notice:  Undefined variable: last_login in /home/princeaalyan/vip.aalyan.za.com/settings.php on line 526
+[19-Sep-2025 14:49:17 UTC] Settings error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_login' in 'SELECT'
+[19-Sep-2025 14:49:17 UTC] PHP Notice:  Undefined variable: last_login in /home/princeaalyan/vip.aalyan.za.com/settings.php on line 526
+[19-Sep-2025 14:49:34 UTC] Settings error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_login' in 'SELECT'
+[19-Sep-2025 14:49:34 UTC] PHP Notice:  Undefined variable: last_login in /home/princeaalyan/vip.aalyan.za.com/settings.php on line 526
+[19-Sep-2025 14:49:59 UTC] Settings error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_login' in 'SELECT'
+[19-Sep-2025 14:49:59 UTC] PHP Notice:  Undefined variable: last_login in /home/princeaalyan/vip.aalyan.za.com/settings.php on line 526
+[19-Sep-2025 14:50:01 UTC] Settings error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_login' in 'SELECT'
+[19-Sep-2025 14:50:01 UTC] PHP Notice:  Undefined variable: last_login in /home/princeaalyan/vip.aalyan.za.com/settings.php on line 526
